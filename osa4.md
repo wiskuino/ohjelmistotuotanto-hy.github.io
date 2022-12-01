@@ -331,7 +331,7 @@ Ohjelmistoalalle vuosien varrella kerääntyneen [kansanviisauden](https://www.a
 
 Tutustutaan nyt näihin laatuattribuutteihin sekä periaatteisiin ja suunnitteluratkaisuihin, joita noudattamalla on mahdollista kirjoittaa ylläpidettävyydeltään laadukasta koodia. Monet näistä hyvän suunnittelun periaatteista on nimetty ja dokumentoitu _suunnittelumalleina_ (engl. design patterns).
 
-Olemme jo nähneet kurssin aikana muutamia suunnittelumalleja, ainakin seuraavat: _dependency injection_ eli riippuvuuksien injektointi, _singleton_ sekä _repository_. Suurin osa tällä kurssilla käsiteltävistä suunnittelumalleista on syntynyt olio-ohjelmoinnin parissa. Osa suunnittelumalleista on relevantteja myös muita paradigmoja, kuten funktionaalista ohjelmointia käytettäessä. Muilla paradigmoilla on myös omia suunnittelumalleja, mutta niitä emme kurssilla käsittele.
+Olemme jo nähneet kurssin aikana muutamia suunnittelumalleja, ainakin seuraavat: _dependency injection_ eli riippuvuuksien injektointi, _singleton_ sekä _repository_. Suurin osa tällä kurssilla käsiteltävistä suunnittelumalleista on syntynyt olio-ohjelmoinnin parissa. Osa suunnittelumalleista on myös relevantteja muita paradigmoja, kuten funktionaalista ohjelmointia käytettäessä. Muilla paradigmoilla on myös omia suunnittelumalleja, mutta niitä emme kurssilla käsittele.
 
 ### Koodin laatuattribuutti: kapselointi
 
