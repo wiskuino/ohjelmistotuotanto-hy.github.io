@@ -148,7 +148,7 @@ matcher = And(
 
 tulisi palauttaa täsmälleen sama lista.
 
-Ehdon All pitäisi palauttaa kaikki pelaajat. Seuraavan koodin
+Ehdon All pitäisi palauttaa kaikki pelaajat. Seuraavan koodin(tästä puuttunee joitain sanoja?)
 
 ```python
 filtered_with_all = stats.matches(All())
