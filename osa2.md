@@ -98,7 +98,7 @@ Toiminnallisten vaatimusten dokumentointi voi tapahtua esim. "feature-listoina" 
 
 Riippumatta toiminnallisten vaatimusten dokumentointitavasta on melko yleistä, että vaatimukset ilmaistaan muodossa, jossa kerrotaan jonkin käyttäjäroolin yksittäinen järjestelmän käyttöskenaario.
 
-Esim. _tavarantoimittaja voi päivittää järjestelmässä olevien tuotteiden hintatietoja_ kertoo erään järjestelmän toiminnallisuuden roolin _tavarantoimittaja_ omaaville käyttäjille.
+Esim. _tavarantoimittaja voi päivittää järjestelmässä olevien tuotteiden hintatietoja_ kertoo erään järjestelmän toiminnallisuuden _tavarantoimittaja_ roolin omaaville käyttäjille.
 
 ### Ei-toiminnalliset vaatimukset
 
